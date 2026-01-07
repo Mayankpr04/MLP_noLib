@@ -16,18 +16,18 @@ The datasets are generated with noise, which encourages generalization and helps
 
 ## Implements
 The neural network is implemented entirely from scratch, including
-*Sigmoid activation function
-*Euclidean loss
-*Backpropagation with gradient descent
-*Matrix multiplication
-*Weight and bias updates
-*Gradient computation
+* Sigmoid activation function
+* Euclidean loss
+* Backpropagation with gradient descent
+* Matrix multiplication
+* Weight and bias updates
+* Gradient computation
 
 ## Customization
 You can experiment with arbitrary network depths and layer sizes to observe how architecture choices affect:
--Convergence speed
--Final accuracy
--Stability during training
+- Convergence speed
+- Final accuracy
+- Stability during training
 
 Several architectures and hyperparameter settings are already tested in main.py
 
